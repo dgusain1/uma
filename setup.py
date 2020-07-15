@@ -8,7 +8,7 @@ def readme():
 
 setup(
       name='uma',
-      version='0.1',
+      version='1.0',
       description='A python package to collect pyomo results as pandas dataframe for easier access.',
       long_description=readme(),
       long_description_content_type="text/markdown",
